@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:SomaDeDoisApp" x:Class="SomaDeDoisApp.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Insira os valores para soma" 
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand" 
+               />
+        
+        <Entry Placeholder="Primeiro Numero" 
+               MaxLength="10"
+               Keyboard="Numeric"
+               x:Name="N1" 
+               />
+        
+        <Entry  
+               Placeholder="Segundo Numero"
+               MaxLength="10"
+               Keyboard="Numeric"
+               x:Name="N2" 
+               />
+        
+        <Label Text="" 
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand"
+               x:Name="Result"
+               />
+        
+        <Button 
+               Text="Ok" 
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand"
+               BackgroundColor="Gray"
+               Clicked="Somar"
+               />
+        
+    </StackLayout>
+</ContentPage>

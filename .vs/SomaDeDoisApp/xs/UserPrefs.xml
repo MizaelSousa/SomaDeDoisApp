@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{634D1922-4AA4-4D13-9CBB-72D630E609D2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SomaDeDoisApp/MainPage.xaml">
+    <Files>
+      <File FileName="SomaDeDoisApp/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="SomaDeDoisApp/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SomaDeDoisApp.Android FirstBuild="True" PreferredExecutionTarget="Android.0045978518" />
+  <MonoDevelop.Ide.ItemProperties.SomaDeDoisApp FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SomaDeDoisApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
